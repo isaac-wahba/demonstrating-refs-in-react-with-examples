@@ -13,7 +13,7 @@ const CustomModal = (props, ref) => {
 
   return (
     <div className='modal'>
-      <p className='prev-label' style={{ fontSize: '2rem' }}>
+      <p className='prev-label' style={{ fontSize: '2rem', fontWeight: '700' }}>
         This is my modal!
       </p>
       <button className='modal-btn' onClick={() => setModalState(false)}>

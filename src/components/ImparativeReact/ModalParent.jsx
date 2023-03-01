@@ -12,7 +12,10 @@ const ModalParent = () => {
 
   return (
     <main className='modal-parent'>
-      <p className='render-label' style={{ fontSize: '2rem' }}>
+      <p
+        className='render-label'
+        style={{ fontSize: '2rem', fontWeight: '700' }}
+      >
         Parent Component
       </p>
       <CustomModal ref={modalRef} />

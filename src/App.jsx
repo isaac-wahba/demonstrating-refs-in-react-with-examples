@@ -19,7 +19,7 @@ function App() {
       {/* <State /> */}
       {/* <Ref /> */}
       {/* 2. forwardRef */}
-      {/* <Parent />{' '} */}
+      {/* <Parent /> */}
       {/* 3. Open COSMIC CustomDatePicker */}
       {/* 4. <ContentUpdate /> */}
       {/* 5. useImparativeHandle */}
